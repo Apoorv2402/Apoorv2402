@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Apoorv
-- 💞️ I’m looking to collaborate on building Web solutions
+- 💞
 - 📫 Reach me at apoorv2402@gmail.com
 
 <!---
