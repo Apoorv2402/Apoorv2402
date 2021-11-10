@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Apoorv
-- 💞
+- 👋 Hi, I’m Apoorv Ahluwalia
 - 📫 Reach me at apoorv2402@gmail.com
 
 <!---
