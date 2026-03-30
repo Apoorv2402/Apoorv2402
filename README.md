@@ -15,8 +15,8 @@
 const apoorv: Developer = {
   name        : "Apoorv Ahluwalia",
   location    : "Gurugram, India 🇮🇳",
-  company     : "Dunnhumby | CodingVedas",
-  role        : "Senior Full Stack Developer",
+  company     : "Dunnhumby ",
+  role        : "Senior Software Engineer",
   currentFocus: ["AI Trading Agents 🤖", "LangChain Workflows", "Quant Strategies 📈"],
   stack       : {
     frontend  : ["React.js", "TypeScript", "Next.js"],
